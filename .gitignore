@@ -1,0 +1,6 @@
+node_modules
+public
+chat_id
+token
+.DS_Store
+npm-debug.log
